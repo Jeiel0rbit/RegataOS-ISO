@@ -21,9 +21,8 @@ At the end of the installation, simply press the "ENTER" button if you are not i
 
 Download and watch the video below on how the program works. Remembering that the program is in the "Beta" phase, this is not the final result.
 
+> [!INFO]
+> 
 > Demo video.mp4.
 > https://github.com/Jetrom17/RegataOS-ISO/raw/main/lv_0_20240106142203.mp4
-
-
-
-> https://regataos.com
+> https://www.regataos.com.br/
