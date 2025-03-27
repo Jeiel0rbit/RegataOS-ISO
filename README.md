@@ -4,13 +4,13 @@ RegataOS
 You can run directly in your `bash` terminal:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Jetrom17/RegataOS-ISO/main/regataos-iso.sh)
+bash <(curl -s https://raw.githubusercontent.com/Jeiel0rbit/RegataOS-ISO/main/regataos-iso.sh)
 ```
 
 or
 
 ```
-git clone https://github.com/Jetrom17/RegataOS-ISO/
+git clone https://github.com/Jeiel0rbit/RegataOS-ISO/
 ```
 Access the `RegataOS-ISO` folder and use the command:
 
